@@ -108,7 +108,7 @@ This project was completed as part of the **Prompt Engineering Internship** offe
 
 ## 👤 Author
 
-**Name:** Abu Talha Ansari
+**Name:** Abu Talha Ansari  
 **Role:** Prompt Engineering Intern  
 **Track:** Prompt Engineering (PE)
 
