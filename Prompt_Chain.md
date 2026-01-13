@@ -85,7 +85,7 @@ Highlight the top 3 titles and explain why they may perform well.
 ```
 
 **Selected Title**
-“I Let ChatGPT Control My Entire Day”
+“I Let ChatGPT Plan My Entire Day”
 
 **Why This Prompt Works**
 Clear constraints guide the model to produce platform-appropriate, high-performing titles rather than generic suggestions.
