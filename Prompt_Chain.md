@@ -1,0 +1,1 @@
+Strategy → Titles → Script → Thumbnail
