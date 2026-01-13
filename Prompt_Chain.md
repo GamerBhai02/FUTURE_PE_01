@@ -18,9 +18,9 @@ Prompt chaining breaks a complex task into smaller, manageable steps where the o
 
 ## 2. Prompt Chain Flow
 
-Prompt 1 → Video Strategy
-Prompt 2 → Title Generation
-Prompt 3 → Full Script Generation
+Prompt 1 → Video Strategy\n
+Prompt 2 → Title Generation\n
+Prompt 3 → Full Script Generation\n
 Prompt 4 → Thumbnail Concept
 
 Each prompt builds on the previous one to maintain narrative consistency and context.
